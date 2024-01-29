@@ -43,9 +43,9 @@ To follow this project, please install the following locally:
 
 * JupyterLab
 * Python packages
-      *pandas
-      *yfinance
-      *scikit-learn
+      * pandas
+      * yfinance
+      * scikit-learn
 
 
   
